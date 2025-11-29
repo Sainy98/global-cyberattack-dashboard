@@ -1,6 +1,8 @@
 # Global Cyberattack Insights Dashboard (Power BI)
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/0c8296b1-0d58-4a3a-9f49-072e5568c994" />
 
+
+
 This project is a **Power BI dashboard** built from a CSV dataset of global cyberattacks from **2015–2025**.
 
 It helps decision‑makers quickly see **financial loss, users affected, attack patterns, and defence performance** in one place.
