@@ -60,8 +60,6 @@ The layout follows common **executive dashboard** best practices so that key i
       
 
 ## 5. Key Insights 📊
-Below are example insights you can keep or adjust based on your actual numbers:
-
 - **High‑risk countries**
     - Countries like the **UK, Germany, and Brazil** show the highest financial loss, indicating heavy digital usage and strong attack activity.
     - Emerging markets such as **India and China** also show notable losses, which suggests fast digital growth and rising cyber risk.
