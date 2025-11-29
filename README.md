@@ -1,5 +1,6 @@
 # Global Cyberattack Insights Dashboard (Power BI)
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/0c8296b1-0d58-4a3a-9f49-072e5568c994" />
+
+![powerBI dashboard](https://github.com/user-attachments/assets/d1e71480-983d-4692-b69a-93c90ffa56bc)
 
 
 
@@ -13,6 +14,7 @@ I created a **Global Cyberattack Insights Dashboard** to turn a raw CSV file i
 The report shows high‑level KPIs at the top and then breaks down the data by country, attack type, industry, and defense mechanism.
 
 The goal was to practice real‑world **data analytics + Power BI** skills and present them in a way that even non‑technical HR or managers can understand.
+
 
 ## 2. Problem Statement 🧩
 Cybersecurity data is usually stored in tables and logs that are hard to read.
